@@ -1,0 +1,8 @@
+.DS_Store
+logs
+docker-compose.yml
+.venv
+acme.json
+authelia/db.sqlite3
+authelia/configuration.yml
+authelia/notification.txt
